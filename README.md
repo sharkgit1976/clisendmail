@@ -30,5 +30,5 @@ python3 sendmail.py -f ./mails.ini send -t 1@1.com -j 邮件标题 -m 邮件内�
 ### 帮助
 
 ```python
-python3 sendmail.py --help
+python3 sendmail.py -h
 ```
